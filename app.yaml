@@ -1,0 +1,4 @@
+kind: wasmer.io/App.v0
+name: static-website-test2
+owner: cypress1
+package: .
